@@ -49,4 +49,4 @@ run: javac *.java
 
 - name: Run Java program
 
-run: java Add
+run: java myfile3.yml
